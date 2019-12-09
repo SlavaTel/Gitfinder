@@ -1,2 +1,1 @@
-GitFinder
-
+GitFinder App
